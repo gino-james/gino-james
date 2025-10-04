@@ -32,28 +32,6 @@ I'm a passionate **Data Scientist**, **Web Developer**, and **AI/ML Enthusiast**
 
 ---
 
-## 🌟 Featured Projects
-
-- [Supply Chain Sustainability Tracker](https://github.com/gino-james/supply-chain-sustainability)  
-  A data science solution for visualizing and predicting environmental impact in supply chains.  
-  _Tech: Python, Pandas, Machine Learning, Flask_
-
-- [Crypto Market Analyzer](https://github.com/gino-james/crypto-analyzer)  
-  Real-time crypto tracking and sentiment analytics platform, featuring automated market alerts and dashboards.  
-  _Tech: React, Node.js, WebSockets, D3.js_
-
-- [Personal AI Assistant ("Friday")](https://github.com/gino-james/personal-ai-assistant)  
-  Jarvis-inspired multi-modal voice AI for productivity, built using Python, Flutter, and Gemini API.
-
----
-
-## 📊 GitHub Stats & Activity
-
-![Gino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gino-james&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gino-james&layout=compact&theme=radical)
-
----
-
 ## 👇 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gino%20James-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gino-james-010931255/)
