@@ -22,10 +22,13 @@ I'm a passionate **Data Scientist**, **Web Developer**, and **AI/ML Enthusiast**
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-333?style=flat-square&logo=scikit-learn)
-![Flask](https://img.shields.io/badge/-Flask-333?style=flat-square&logo=flask)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333?style=flat-square&logo=tailwind-css)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat-square&logo=git)
+
 
 ---
 
