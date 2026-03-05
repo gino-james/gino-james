@@ -17,10 +17,6 @@ I'm a passionate **Data Scientist**, **Web Developer**, and **AI/ML Enthusiast**
 ## 🧰 My Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333?style=flat-square&logo=express)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat-square&logo=tensorflow)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-333?style=flat-square&logo=scikit-learn)
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat-square&logo=mysql)
